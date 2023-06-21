@@ -4,8 +4,6 @@
 
 Projeto desenvolvido para acompanhar as aulas da Alura + ONE (Oracle Next Education) sobre estruturas CSS, Atomic Design, Metodologia BEM (Block Element Modifier) e  Responsividade.
 
-<a href="https://yagomonteiroo.github.io/Projeto-Fruto-e-Fruta/" target="_blank">Clique aqui para visualizar o projeto online</a>
-
 [**Clique aqui para visualizar o projeto online**](https://yagomonteiroo.github.io/Projeto-Fruto-e-Fruta/)    
 #
                     
